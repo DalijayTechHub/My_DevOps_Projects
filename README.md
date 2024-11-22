@@ -1,2 +1,0 @@
-# My_DevOps_Projects
- My_DevOps_Learning_Projects
